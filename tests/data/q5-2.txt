@@ -1,0 +1,6 @@
+TODO: Choose another
+Category: Messy input
+Question: mixed capitalisation of breed name (e.g. ElF CAt)
+Answer: Medium-sized hairless cat with distinctive curled ears. Combines Sphynx and American Curl traits.
+Agent response:
+The Elf Cat is a medium-sized hairless cat with distinctive curled ears, combining Sphynx and American Curl traits. They are affectionate, intelligent, playful, social, and friendly.

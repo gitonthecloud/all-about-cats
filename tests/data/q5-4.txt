@@ -1,0 +1,6 @@
+Category: Messy input
+Question: mixed capitalisation and mispelled of breed name (e.g. aRAbIAn CaU)
+Answer: 
+Agent response:
+
+(Not enough quota)

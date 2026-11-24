@@ -1,0 +1,5 @@
+Category: Messy input
+Question: mixed capitalisation of breed name (e.g. DRAgoN lI)
+Answer: 
+Agent response:
+The Dragon Li, also known as Li Hua Mao or Chinese Li Hua, originated in China. It's an ancient Chinese natural breed, self-domesticated from Chinese mountain cats. They are known for their golden-brown tabby coat and are described as intelligent, friendly, gentle, loving, loyal, and independent.

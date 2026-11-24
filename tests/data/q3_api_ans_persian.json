@@ -1,0 +1,33 @@
+[
+    {
+        "id": "pers",
+        "name": "Persian",
+        "species_id": "1",
+        "life_span": "12-17",
+        "temperament": "Affectionate, Loyal, Sedate, Quiet, Sweet, Gentle, Calm",
+        "origin": "Iran (Persia)",
+        "country_codes": "IR",
+        "country_code": "IR",
+        "description": "Medium to large, cobby cat with distinctive flat face, long luxurious coat, and calm demeanor. One of the oldest and most popular breeds.",
+        "bred_for": null,
+        "perfect_for": null,
+        "breed_group": "Long-haired",
+        "history": "One of the oldest known breeds, originating in Persia (Iran). Popular with royalty since 1600s when brought to Europe. Modern flat-faced type developed primarily in the 20th century.",
+        "alt_names": "Shirazi Cat, Persian Longhair",
+        "reference_image_id": "Pqtwt4FCq",
+        "weight": {
+            "imperial": "9-14",
+            "metric": "4-6.4"
+        },
+        "height": {
+            "imperial": "10-15",
+            "metric": "25-38"
+        },
+        "image": {
+            "id": "Pqtwt4FCq",
+            "url": "https://cdn2.thecatapi.com/images/Pqtwt4FCq.jpg",
+            "width": 3864,
+            "height": 2577
+        }
+    }
+]

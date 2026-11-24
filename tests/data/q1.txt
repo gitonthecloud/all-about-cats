@@ -1,0 +1,3 @@
+Category: Direct lookup
+Question: "What is the origin of the Siamese breed?"
+Answer: Thailand

@@ -1,0 +1,5 @@
+Category: Comparison or aggregation
+Question: "Which of the Bengal and the Persian is heavier?"
+Answer: Bengal
+
+Agent response:

@@ -1,0 +1,7 @@
+Category: Direct lookup
+Question: "What is so special about egyptian cats?"
+Answer:
+
+
+Agent response:
+The Egyptian Mau is a medium-sized, muscular, and naturally spotted cat breed with distinctive gooseberry-green eyes. It's one of the oldest domestic cat breeds, possibly descended from ancient Egyptian cats, and is the only naturally spotted domestic breed. Their name "Mau" is the Egyptian word for cat. They are known for being agile, dependent, gentle, intelligent, lively, loyal, playful, and devoted.

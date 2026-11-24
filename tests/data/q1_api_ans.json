@@ -1,0 +1,33 @@
+[
+    {
+        "id": "siam",
+        "name": "Siamese",
+        "species_id": "1",
+        "life_span": "12-20",
+        "temperament": "Active, Agile, Clever, Sociable, Loving, Energetic, Affectionate",
+        "origin": "Thailand",
+        "country_codes": "Thailand",
+        "country_code": "TH",
+        "description": "Medium-sized, elegant cat with distinctive colorpoint pattern, blue eyes, and wedge-shaped head. One of the most recognizable breeds.",
+        "bred_for": null,
+        "perfect_for": null,
+        "breed_group": "Short-haired",
+        "history": "One of the oldest recognized breeds, originating in Thailand (Siam). Favored by Thai royalty. First came to the West in the 1880s. Modern show Siamese has more extreme features than traditional type.",
+        "alt_names": "Royal Cat of Siam, Meezer",
+        "reference_image_id": "Xwp-MBOtI",
+        "weight": {
+            "imperial": "8-15",
+            "metric": "3.6-6.8"
+        },
+        "height": {
+            "imperial": "10-14",
+            "metric": "25-36"
+        },
+        "image": {
+            "id": "Xwp-MBOtI",
+            "url": "https://cdn2.thecatapi.com/images/Xwp-MBOtI.jpg",
+            "width": 3225,
+            "height": 2419
+        }
+    }
+]

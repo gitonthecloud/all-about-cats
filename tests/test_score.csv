@@ -1,0 +1,5 @@
+Check Type,Purpose,Result
+Content,Does the answer include the expected value?,Yes
+Numeric,Is the number within a tolerance?,NA
+Tool-use,"Did the agent actually call the API, and with sensible arguments?",Yes
+No-call,"For missing-data and off-topic cases, does the agent reply with a ""can't find"" answer?",Yes

@@ -1,0 +1,4 @@
+Category: Off-topic
+Question: "What's the capital of France?"
+Answer: Error, unrelated topic
+Agent response: I am a cat expert, and I can only answer questions about cats. I cannot provide information about the capital of France.

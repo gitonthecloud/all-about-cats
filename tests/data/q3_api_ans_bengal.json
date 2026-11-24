@@ -1,0 +1,33 @@
+[
+    {
+        "id": "beng",
+        "name": "Bengal",
+        "species_id": "1",
+        "life_span": "12-16",
+        "temperament": "Alert, Agile, Energetic, Demanding, Intelligent, Curious, Playful",
+        "origin": "United States",
+        "country_codes": "US",
+        "country_code": "US",
+        "description": "Medium to large, muscular cat with a distinctive wild appearance featuring spotted or marbled coat patterns. Highly athletic and intelligent with an exotic look.",
+        "bred_for": null,
+        "perfect_for": null,
+        "breed_group": "Short-haired",
+        "history": "Developed by crossing domestic cats with the Asian leopard cat starting in the 1960s-70s by Jean Mill. Named after the leopard cat's scientific name (Prionailurus bengalensis). Recognized by TICA in 1983.",
+        "alt_names": "Leopardette",
+        "reference_image_id": "dN6eoeLjY",
+        "weight": {
+            "imperial": "10-18",
+            "metric": "4.5-8.2"
+        },
+        "height": {
+            "imperial": "13-16",
+            "metric": "33-41"
+        },
+        "image": {
+            "id": "dN6eoeLjY",
+            "url": "https://cdn2.thecatapi.com/images/dN6eoeLjY.jpg",
+            "width": 3648,
+            "height": 2736
+        }
+    }
+]

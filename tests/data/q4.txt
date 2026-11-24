@@ -1,0 +1,4 @@
+Category: Missing data
+Question: A breed or field the API doesn't have (breed: Lion)
+Answer: Non existent
+Agent response:

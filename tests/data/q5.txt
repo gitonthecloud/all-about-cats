@@ -1,0 +1,4 @@
+Category: Messy input
+Question: Misspelled or alternate breed names (typo: Highmander, real: Highlander)
+Answer: No relevant data found
+Agent response: I'm sorry, I couldn't find any information about the Highmander cat breed. Please check the spelling or try another breed.

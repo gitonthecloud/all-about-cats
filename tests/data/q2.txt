@@ -1,0 +1,5 @@
+Category: Multi field
+Question: "Which temperament traits does the Japanese Bobtail have, and what's its life span?"
+Answer:
+* "temperament": "Active, Agile, Clever, Easy Going, Intelligent, Lively, Loyal, Playful, Social"
+* "life_span": "14-16"
